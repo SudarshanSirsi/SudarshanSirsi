@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack development and React.**
 
-- 💬 Ask me about **Java OOP, HTML, CSS, JavaScript, SQL**
+- 💬 Ask me about **Java OOP, HTML, CSS, JavaScript, SQL,Node.js**
 
 - 📫 How to reach me **sudarshanhegde247@gmail.com**
 
