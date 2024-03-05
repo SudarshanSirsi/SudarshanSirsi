@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshansirsi&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshansirsi" /> </p>
 
-- 🌱 I’m currently learning **Java Full Stack development and React.**
+- 🌱 I’m currently learning **Typescript and React**
 
-- 💬 Ask me about **Java OOP, HTML, CSS, JavaScript, SQL,Node.js**
+- 💬 Ask me about **Node.js, Javascript, HTML,CSS, Java, Linux**
 
 - 📫 How to reach me **sudarshanhegde247@gmail.com**
 
